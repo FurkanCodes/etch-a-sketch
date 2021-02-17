@@ -1,0 +1,39 @@
+
+
+
+html, body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.container {
+    margin-top: 25px;
+  margin-right: 40px;
+  display: inline-grid;
+  border: 5px solid black;
+  border-radius: 5px;
+  height: 890px;
+  width: 890px;
+}
+
+.cell {
+    
+  
+    text-align:center;
+  }
+
+.btn {
+  font-size: 20px;
+  margin: auto;
+ padding: auto;
+
+ }
